@@ -82,10 +82,6 @@
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintukotti&theme=vue" alt="Profile Details" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=chintukotti&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=059669&sideLabels=059669&currStreakNum=065f46&sideNums=065f46&dates=6b7280&stroke=10B981&borderRadius=10" alt="GitHub Streak" />
-
 </div>
 
 ---
