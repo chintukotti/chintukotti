@@ -84,7 +84,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=chintukotti&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=059669&sideLabels=059669&currStreakNum=064e3b&sideNums=064e3b&dates=6b7280&border=d1fae5" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=chintukotti&background=ffffff&ring=10B981&fire=10B981&currStreakLabel=059669&sideLabels=059669&currStreakNum=065f46&sideNums=065f46&dates=6b7280&stroke=10B981&borderRadius=10" alt="GitHub Streak" />
 
 </div>
 
