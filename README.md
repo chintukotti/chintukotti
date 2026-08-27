@@ -1,142 +1,139 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Kotti%20Satyanarayana&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AWS%20Cloud%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50" />
-
-<p align="center">
-  <a href="https://github.com/chintukotti"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%26+Cloud+Enthusiast;Building+Real-World+Tools+for+Students;JavaScript+%7C+Firebase+%7C+AWS+%7C+Python;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chintukotti&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/chintukotti?label=Followers&style=for-the-badge&color=6366f1" alt="followers"/>
-  <a href="https://github.com/chintukotti?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10+-0ea5e9?style=for-the-badge&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Cloud-success?style=for-the-badge" />
-</p>
-
----
-
-### 👋 About Me
-
-Hi, I'm **Kotti Satyanarayana** - a passionate Full-Stack Developer from Andhra Pradesh, India.
-
-I love building **real-world, user-focused web apps** that solve actual student and productivity problems. From automatic timetable generation to Telugu-English voice expense trackers, I build products end-to-end: idea → design → code → deploy.
-
-> **I don't just write code, I ship products people can use.**
-
-- 🔭 Currently working on: **SecureShare** - Secure file sharing platform on AWS (Summer Internship Project)
-- 🌱 Learning: **AWS Cloud Architecture, System Design, Advanced Backend**
-- 💡 Building: Real-time Firebase apps with 100% responsive UI
-- 🎯 Goal: **SDE / Full-Stack Developer Role at a product-based company**
-- 💬 Ask me about: **JavaScript, Firebase, Real-time Web Apps, AWS, Building MVPs fast**
-- 🌍 Languages: English, Telugu (Native) - Built India's first Telugu-English Voice Expense Tracker
-- ⚡ Fun fact: I built a multiplayer coin betting game (`center-coin`) that syncs in real-time
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,firebase,aws,git,github,vscode,figma" />
-</p>
-
-**Frontend:** JavaScript (ES6+), HTML5, CSS3, Responsive Design, Chart.js
-<br/>
-**Backend & Cloud:** Firebase (Auth, Firestore, Realtime DB, Hosting), Node.js, AWS (S3, EC2, IAM)
-<br/>
-**Tools & Concepts:** Git & GitHub, Real-time Sync, Google OAuth, Web Speech API (NLP), REST APIs, PWA Concepts
-
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Auth-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects - Built for Real Users
-
-| Project | What it Does | Tech Stack | Live |
-| :--- | :--- | :--- | :--- |
-| **[Automatic Timetable Generator](https://github.com/chintukotti/automatic-timetable-generator)** | College timetable automation with faculty randomization, lab allocation & conflict-free scheduling | JS, Firebase, Google Login | [Repo →](https://github.com/chintukotti/automatic-timetable-generator) |
-| **[SecureShare](https://github.com/chintukotti/secureshare)** | Secure file sharing on AWS Cloud - Summer Internship Project | JS, AWS S3, IAM | [Repo →](https://github.com/chintukotti/secureshare) |
-| **[DailyExpense](https://github.com/chintukotti/dailyexpense)** | Full-stack expense tracker with budgeting, analytics & real-time sync | Firebase, Chart.js, Google Auth | [Repo →](https://github.com/chintukotti/dailyexpense) |
-| **[VoiceTrack - Chaduvimpulu](https://github.com/chintukotti/voicetrack)** | **Unique** - Telugu + English Voice Expense Tracker using Web Speech API & NLP | Web Speech API, Firebase, NLP | [Repo →](https://github.com/chintukotti/voicetrack) |
-| **[Tasks Tracking](https://github.com/chintukotti/tasks-tracking)** | Productivity app with streak tracking & automatic day submission | Firebase, Firestore | [Repo →](https://github.com/chintukotti/tasks-tracking) |
-| **[Center Coin](https://github.com/chintukotti/center-coin)** | Real-time multiplayer coin betting game with rooms & live bets | HTML, CSS, JS, Firebase Realtime | [Repo →](https://github.com/chintukotti/center-coin) |
-| **[Semester Track](https://github.com/chintukotti/semester-track)** | Academic semester planning & visualization system | JS, Firebase | [Repo →](https://github.com/chintukotti/semester-track) |
-| **[Diary](https://github.com/chintukotti/diary)** | Secure personal digital journal | JS, Firebase Auth | [Repo →](https://github.com/chintukotti/diary) |
-
-> ⭐ **Recruiter Note:** All projects have Authentication, Real-time Database, Responsive Design, and are deployed. Check pinned repos.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/chintukotti">
-    <img src="https://streak-stats.demolab.com?user=chintukotti&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintukotti&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chintukotti&theme=tokyo-night&hide_border=true&area=true&custom_title=Kotti%20Satyanarayana's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
-</p>
-
----
-
-### 🏆 What I Bring to Your Team
-
-**For Recruiters & Hiring Managers:**
-
-✅ **Product Mindset:** I don't just code features, I build complete products (Auth → DB → Deploy)
-<br/>
-✅ **Fast Learner:** Built 10+ projects in < 1 year, self-taught Firebase + AWS + NLP
-<br/>
-✅ **Real-time Expertise:** Deep hands-on with Firebase Realtime DB, Firestore sync, Multiplayer logic
-<br/>
-✅ **Cloud Ready:** AWS Summer Internship - S3, EC2, Secure file handling
-<br/>
-✅ **Unique Value:** Can build for Bharat - Voice + Regional language (Telugu) integration
-<br/>
-✅ **Clean Code:** Responsive, Secure (Google OAuth), Production-ready UIs
-
-**Actively looking for:** `SDE Intern | Full-Stack Developer | Frontend Developer | AWS Cloud Intern`
-
----
-
-### 📫 Let's Connect - Open to Opportunities!
-
-<p align="center">
-<a href="https://github.com/chintukotti"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:kottisatyanarayana@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/chintukotti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://chintukotti.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
-<p align="center">
-<i>💡 Let's build something that impacts thousands of students! I'm just a message away.</i>
-<br/><br/>
-<b>📍 Rasapudipalem, Andhra Pradesh, India | Available for Remote & On-site</b>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" />
-</p>
-
 <!--
-Note for you:
-- Replace email: kottisatyanarayana@email.com with your real email
-- Replace LinkedIn URL if different - currently set to /in/chintukotti
-- Replace Portfolio URL if you have one
-- This README will only show if repo name = chintukotti and it's public
+=========================================================
+  GitHub Profile README — Kotti Satyanarayana (@chintukotti)
+  How to use: create (or open) a repo named EXACTLY "chintukotti"
+  (i.e. github.com/chintukotti/chintukotti) and upload this
+  file as README.md at the root. It appears on your profile.
+  Edit the links (email / LinkedIn / portfolio) before publishing.
+=========================================================
 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Kotti%20Satyanarayana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AWS%20Cloud%20%7C%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%" alt="Kotti Satyanarayana — Full-Stack Developer" />
+
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand" /> I'm Kotti Satyanarayana
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%26+Cloud+Enthusiast;Building+Real-World+Tools+for+Students;JavaScript+%E2%80%A2+React+%E2%80%A2+Firebase+%E2%80%A2+AWS;Open+to+Internships+%26+Full-Time+Roles)](https://github.com/chintukotti)
+
+<p>
+  <b>Full-Stack Developer</b> from Andhra Pradesh, India 🇮🇳 <br/>
+  I turn ideas into shipped products — idea → design → code → deploy.
+</p>
+
+<!-- Social badges -->
+<p>
+  <a href="https://github.com/chintukotti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/chintukotti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kottisatyanarayana@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chintukotti.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=chintukotti&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently building:** a **College Management System** (React + Firebase) and **SecureShare**, a secure file-sharing platform on AWS
+- 🌱 **Learning:** AWS Cloud Architecture, System Design, and Advanced React
+- 💡 **I enjoy:** real-time Firebase apps, voice interfaces, PWAs, and 100% responsive UI
+- 🎯 **Looking for:** SDE Intern · Full-Stack Developer · Frontend Developer · AWS Cloud Intern roles
+- 💬 **Ask me about:** JavaScript, Firebase, real-time web apps, AWS, and shipping MVPs fast
+- 🌍 **Languages:** English · Telugu (native) — I built a Telugu–English voice expense tracker
+- ⚡ **Fun fact:** I built a real-time multiplayer coin game and a live cricket-scoring PWA, both synced instantly with Firebase
+
+> I don't just write code — **I ship products people can actually use.**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,firebase,aws,python,git,github,vscode,figma" alt="Tech stack icons" />
+
+</div>
+
+| Category | Technologies |
+| :-- | :-- |
+| **Frontend** | JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS, Chart.js, Responsive Design |
+| **Backend & Cloud** | Firebase (Auth · Firestore · Realtime DB · Hosting), Node.js, AWS (S3 · EC2 · IAM), REST APIs |
+| **Tools & Concepts** | Git & GitHub, Google OAuth, Web Speech API, Real-time Sync, PWA, Figma, VS Code |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+## 📦 Featured Projects
+
+| Project | What It Does | Tech Stack |
+| :-- | :-- | :-- |
+| 🏫 **[College Management System](https://github.com/chintukotti/college-management-system)** | Modern platform for students, faculty, courses, attendance, assignments & notices | React · Firebase · Tailwind |
+| 🔐 **[SecureShare](https://github.com/chintukotti/secureshare)** | Secure file sharing on AWS Cloud — Summer Internship Project | JavaScript · AWS S3 · IAM |
+| 🎙️ **[VoiceTrack — Chaduvimpulu](https://github.com/chintukotti/voicetrack)** | **Unique:** Telugu + English voice expense tracker using Web Speech API & NLP | JavaScript · Firebase · Web Speech API |
+| 🗓️ **[Timetable Generator](https://github.com/chintukotti/automatic-timetable-generator)** | Conflict-free college timetables with faculty randomization & lab allocation | JavaScript · Firebase |
+| 💰 **[DailyExpense](https://github.com/chintukotti/dailyexpense)** | Full-stack expense tracker with budgeting, analytics & real-time sync | Firebase · Chart.js · Google Auth |
+| 🏏 **[One Ball Miss Cricket](https://github.com/chintukotti/one-ball-miss-cricket)** | Real-time cricket scoring PWA with live stats & match management | JavaScript · Firebase · PWA |
+
+<p align="center">
+  ⭐ All projects include authentication, real-time data, responsive design & deployment — <b><a href="https://github.com/chintukotti?tab=repositories">explore all repositories →</a></b>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/chintukotti">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chintukotti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/chintukotti">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintukotti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=chintukotti&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chintukotti&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<p>I'm open to <b>internships</b>, <b>full-time roles</b>, and collaborating on interesting projects.</p>
+
+<p>
+  <a href="https://linkedin.com/in/chintukotti"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kottisatyanarayana@email.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chintukotti.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p>📍 Rasapudipalem, Andhra Pradesh, India &nbsp;•&nbsp; Available for Remote & On-site</p>
+
+<i>💡 Let's build something that impacts thousands of students — I'm just a message away.</i>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer&text=Thank%20you%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="Thank you for visiting" />
+
+</div>
